@@ -69,7 +69,7 @@ Web Security • Docker • Maven • MySQL • PostgreSQL • Spring Cloud (Dis
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://twitter.com/bougrineziad"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://linkedin.com/in/ziad-bougrine-9b94171a5"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://linkedin.com/in/ziadbougrine"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://stackoverflow.com/users/ziad-bougrine"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
   <a href="https://instagram.com/ziadbougrine.jar"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
